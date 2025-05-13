@@ -15,3 +15,9 @@ documentation for details.
    :maxdepth: 2
    :caption: Contents:
 
+.. automodule:: quackbox.leaderboard
+   :members:
+
+.. automodule:: quackbox.save_data
+   :members:
+
